@@ -1,2 +1,4 @@
 # AulaEngProfAle
 Exercício para a primeira aula!
+
+Git é um sistema de controle de versão distribuído utilizado para gerenciar mudanças em projetos de código. Ele armazena os arquivos e todo o histórico em um repositório, permitindo que diferentes pessoas colaborem de forma organizada. As alterações são salvas por meio de commits, que registram o estado do projeto em determinado momento. Para trabalhar em funcionalidades sem afetar a versão principal, utilizam-se branches, que podem ser unidas depois com o merge. É possível copiar um repositório remoto para a máquina local usando clone, enviar alterações para o repositório remoto com push e trazer as mudanças feitas por outros desenvolvedores utilizando pull.
